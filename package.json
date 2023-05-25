@@ -1,0 +1,25 @@
+{
+  "name": "cachewrt",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deplives/cachewrt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deplives/cachewrt/issues"
+  },
+  "homepage": "https://github.com/deplives/cachewrt#readme",
+  "dependencies": {
+    "@actions/cache": "^3.0.6",
+    "@actions/core": "^1.10.0",
+    "child_process": "^1.0.2"
+  }
+}
